@@ -1,5 +1,6 @@
-# template-vite-react-tailwind-jit
+# SignUp Form
 
++ UI Design: [Frontend Mentor](https://www.frontendmentor.io)
 - **template of:** vite + react
 - **tailwindcss:** v2.2.7
 
@@ -34,8 +35,3 @@ with yarn:
 ```bash
 yarn build
 ```
-
----
-<p align="center">
-<img src="./powered-by-vitawind-bright.png">
-</p>
